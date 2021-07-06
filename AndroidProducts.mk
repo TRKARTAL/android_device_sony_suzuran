@@ -14,10 +14,10 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_suzuran.mk
+    $(LOCAL_DIR)/mokee_suzuran.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_suzuran-user \
-    lineage_suzuran-userdebug \
-    lineage_suzuran-eng
+    mokee_suzuran-user \
+    mokee_suzuran-userdebug \
+    mokee_suzuran-eng
 
